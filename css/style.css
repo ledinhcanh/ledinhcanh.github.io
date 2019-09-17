@@ -3592,6 +3592,8 @@ input[type="button"].btn-block {
     display: none;
   }
   .logosmall{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
     width: 100px;
     height: 100px;
     margin: 0 auto;
