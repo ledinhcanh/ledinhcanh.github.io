@@ -3606,6 +3606,15 @@ input[type="button"].btn-block {
   .wrap-about .img {
     width: 100% !important;
   }
+  .owl-carousel.home-slider .slider-item{
+    height: 150px !important;
+  }
+  .owl-carousel.home-slider{
+    height: 150px !important;
+  }
+  .owl-carousel.home-slider .owl-dots{
+    bottom: 3px !important;
+  }
 }
 
 @media (min-width: 576px) {
